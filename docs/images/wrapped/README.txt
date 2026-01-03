@@ -1,0 +1,1 @@
+Coloca aquí tus fotos: foto1.jpg, foto2.jpg, ..., foto6.jpg
