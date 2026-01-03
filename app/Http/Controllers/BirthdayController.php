@@ -23,7 +23,7 @@ class BirthdayController extends Controller
             ],
             [
                 'titulo' => 'En primera fila',
-                'subtitulo' => 'Siempre seré tu fan número uno en todo lo que haces y tu fotógrafo personal ❤️',
+                'subtitulo' => 'Siempre seré tu fan número uno en todo lo que haces y tu fotógrafo personal, estoy muy orgulloso de ti ❤️',
                 'imagen' => asset('images/wrapped/foto3_ella.jpeg'),
                 'color_hex' => '#831843', // Dark Pink
             ],
@@ -47,13 +47,13 @@ class BirthdayController extends Controller
             ],
             [
                 'titulo' => 'Mi Hit Favorito',
-                'subtitulo' => 'Es el del sonido de tu risa y cuando me ves con esos ojitos que me derriten.',
+                'subtitulo' => 'Es el del sonido de tu risa cuando te haces la payasita... pero me encantas así de loquita',
                 'imagen' => asset('images/wrapped/foto6_pareja.jpeg'),
                 'color_hex' => '#E91429', // Red
             ],
             [
-                'titulo' => 'It’s love like a tongue in a nostril',
-                'subtitulo' => 'Love like an ache in the jaw',
+                'titulo' => 'Más años, más amor, más de ti por favor',
+                'subtitulo' => 'Algo empalagoso, pero k me importa....',
                 'imagen' => asset('images/wrapped/foto7_pareja.jpeg'),
                 'color_hex' => '#F573A0', // Pink
             ],
